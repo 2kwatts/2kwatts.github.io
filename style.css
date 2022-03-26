@@ -1,0 +1,29 @@
+body {
+  background-color: #280606;
+  color: white;
+  font-family: monospace;
+}
+
+.panel {
+  background-color: #691010;
+  width: 54%;
+  word-wrap: break-word;
+  border-color: red;
+  border-style: double;
+}
+
+a {
+  color: lime;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: lime;
+}
