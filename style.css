@@ -2,10 +2,13 @@ body {
   background-color: #280606;
   color: white;
   font-family: monospace;
+  background-image: url("clouds.jpg");
+  background-size: 100%, 100%;
 }
 
 .panel {
-  background-color: #691010;
+  background: rgba(0, 0, 0, 0.5);
+  /* background-color: #691010;*/
   width: 54%;
   word-wrap: break-word;
   border-color: red;
