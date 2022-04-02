@@ -2,7 +2,7 @@ body {
   background-color: #280606;
   color: white;
   font-family: monospace;
-  background-image: url("clouds.jpg");
+  background-image: url("img/clouds.jpg");
   background-size: 100%, 100%;
 }
 
@@ -34,8 +34,8 @@ body {
 
 .logo {
   transition: transform .07s;
-  width: 25px;
-  height: 25px;
+  width: 35px;
+  height: 35px;
 }
 
 .logo:hover {
